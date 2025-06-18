@@ -1,0 +1,7 @@
+# My Personal and Academic Goals for Next Year
+
+- Improve my coding skills in Python and Shell scripting.
+- Complete at least 3 hands-on development projects.
+- Learn and contribute to open-source projects.
+- Strengthen my knowledge of version control using Git.
+- Build a personal website to showcase my portfolio.
