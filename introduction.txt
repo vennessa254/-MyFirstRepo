@@ -1,0 +1,5 @@
+# Brief Introduction About Myself
+
+Hello, my name is vannessa. I am currently learning Git and GitHub as part of my professional development program. I am passionate about technology, innovation, and building real-world software solutions.
+
+I enjoy learning through hands-on projects and exploring how version control tools like Git can improve collaboration and code management.
